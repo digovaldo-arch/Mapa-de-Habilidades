@@ -76,3 +76,5 @@ Criar um plano de conteúdo para atrair clientes
 "Me ajude a escrever uma bio para Instagram como organizador de eventos."
 "Crie um modelo de proposta para cliente que quer uma festa simples."
 "Sugira ideias de conteúdo para TikTok sobre organização de eventos."
+
+
